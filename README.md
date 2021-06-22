@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmanuel3240
+- 👋 Hi, I’m Emmanuel
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on some jr´s proyects
