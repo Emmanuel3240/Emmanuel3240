@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel
-- 👀 I’m interested in JS, React, also C#
-- 🌱 I’m currently learning ReactJS and C#
+- 👀 I’m interested in HTML,CSS, JS & React.
+- 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on some proyects as a Trainee
 - 📫 How to reach me... Instagram, Twitter, Telegram... as @Emmanuel3240
 
